@@ -2,7 +2,7 @@
 # NRP   : 5025221103
 # Kelas : Konsep Kecerdasan Artifisial (C)
 # Dosen : Dini Adni Navastara, S.Kom., M.Sc.
-# Build : 5 September 2023
+# Build : 5 Oktober 2023
 # Key   : BFS, GBFS, A*
 
 import heapq
